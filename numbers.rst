@@ -18,6 +18,7 @@ Hiragana
 --------
 
 Zero:
+
 - rei 
 - re-i
 - れい
