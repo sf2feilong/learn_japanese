@@ -483,25 +483,25 @@ Fifteen Thousand:
 - i-chi-ma-n go-se-n
 - いちまんごせん
 
-Sixteen:
+Sixteen Thousand:
 
 - ichiman rokusen
 - i-chi-ma-n ro-ku-se-n
 - いちまんろくせん
 
-Seventeen:
+Seventeen Thousand:
 
 - ichiman nanasen
 - i-chi-ma-n na-na-se-n
 - いちまんななせん
 
-Eighteen:
+Eighteen Thousand:
 
 - ichiman hassen
 - i-chi-ma-n ha-tu-se-n
 - いちまんはっせん
 
-Nineteen:
+Nineteen Thousand:
 
 - ichiman kyuusen
 - i-chi-ma-n ki-yu-u-se-n
