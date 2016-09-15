@@ -1,4 +1,4 @@
-Numbers
+Arithmetic
 ========
 
 Assuming you already mastered hiragana or katakana, you can derive its japanese character equivalent based on its romanized counterpart (romaji).
