@@ -639,8 +639,8 @@ Two Trillion:
 - ni-chi-yo-u
 - にちょう
 
-Alternate System
-----------------
+Alternate System for Cardinal Numbers
+-------------------------------------
 
 One:
 
