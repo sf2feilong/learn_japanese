@@ -708,9 +708,11 @@ Counting Different Kinds of Things
 People:
 
 1. hitori
+
 - hi-to-ri
 - ひとり
 
 2. futari
+
 - fu-ta-ri
 - ふたり
