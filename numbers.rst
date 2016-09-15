@@ -75,135 +75,141 @@ Nine:
 
 - ku, kyuu
 - ku, ki-yu-u
-- く or きゆう
+- く or きゅう
 
 Ten:
 
 - juu
 - zi-yu-u
-- じゆう
+- じゅう
 
 Eleven:
 
 - juuchi
 - zi-yu-u-chi
-- じゆうち
+- じゅうち
 
 Twelve:
 
 - juuni
 - zi-yu-u-ni
-- じゆうに
+- じゅうに
 
 Thirteen:
 
 - juusan
 - zi-yu-u-sa-n
-- じゆうさん
+- じゅうさん
 
 Fourteen:
 
 - juushi, juuyon
 - zi-yu-u-shi , zi-yu-u-yo-n
-- じゆうち or じゆうよん
+- じゅうち or じゅうよん
 
 Fifteen:
 
 - juugo
 - zi-yu-u-go
-- じゆうご
+- じゅうご
 
 Sixteen:
 
 - juuroku
 - zi-yu-u-ro-ku
-- じゆうろく
+- じゅうろく
 
 Seventeen:
 
 - juushichi, juunana
 - zi-yu-u-shi-chi, zi-yu-u-na-na
-- じゆうしち or じゆうなな
+- じゅうしち or じゅうなな
 
 Eighteen:
 
 - juuhachi
 - zi-yu-u-ha-chi
-- じゆうはち
+- じゅうはち
 
 Nineteen:
 
 - juuku, juukyuu
 - zi-yu-u-ku, zi-yu-u-ki-yu-u
-- じゆうく or じゆうきゆう
+- じゅうく or じゅうきゅう
 
 Twenty:
 
 - nijuu
 - ni-zi-yu-u
-- にじゆう
+- にじゅう
 
 Twenty-One:
 
 - nijuuichi
 - ni-zi-yu-u-i-chi
-- にじゆういち
+- にじゅういち
 
 Twenty-Two:
 
 - nijuuni
 - ni-zi-yu-u-ni
-- にじゆうに
+- にじゅうに
 
 Twenty-Three:
 
 - nijuusan
 - ni-zi-yu-u-sa-n
-- にじゆうさん
+- にじゅうさん
 
 Twenty-Four:
 
 - nijuushi, nijuuyon
 - ni-zi-yu-u-shi, ni-zi-yu-u-yo-n
-- にじゆうし or にじゆうよん
+- にじゅうし or にじゅうよん
 
 Twenty-Five:
 
 - nijuugo
 - ni-zi-yu-u-go
-- にじゆうご
+- にじゅうご
 
 Twenty-Six:
 
 - nijuuroky
 - ni-zi-yu-u-ro-ku
-- にじゆうろく
+- にじゅうろく
 
 Twenty-Seven:
 
 - nijuushichi, nijuunana
 - ni-zi-yu-u-shi-chi, ni-zi-yu-u-na-na
-- にじゆうしち or にじゆうなな
+- にじゅうしち or にじゅうなな
 
 Twenty-Eight:
 
 - nijuuhachi
 - ni-zi-yu-u-ha-chi
-- にじゆうはち
+- にじゅうはち
 Twenty-Nine:
 
 - nijuuku, nijuukyuu
 - ni-zi-yu-u-ku, ni-zi-yu-u-ki-yu-u
-- にじゆうく or にじゆうきゆう
+- にじゅうく or にじゅうきゅう
 
 Thirty:
 
 - sanjuu
 - sa-n-zi-yu-u
-- さんじゆう
+- さんじゅう
 
 Thirty-One:
 
-- 
-- 
-- 
+- sanjuuichi
+- sa-n-zi-yu-u-i-chi
+- さんじゅういち
+
+Thiry-Two:
+
+- sanjuuni
+- sa-n-zi-yu-u-ni
+- さんじゅうに
