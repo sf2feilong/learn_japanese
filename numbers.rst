@@ -86,8 +86,8 @@ Ten:
 Eleven:
 
 - juuchi
-- zi-yu-u-chi
-- じゅうち
+- zi-yu-u-i-chi
+- じゅういち
 
 Twelve:
 
@@ -213,3 +213,15 @@ Thiry-Two:
 - sanjuuni
 - sa-n-zi-yu-u-ni
 - さんじゅうに
+
+Thirty-Three:
+
+- sanjuusan
+- sa-n-zi-yu-u-sa-n
+- さんじゅうさん
+
+Thirty-Four:
+
+- 
+- 
+- 
